@@ -24,7 +24,7 @@ img{
 }
 
 td, th{
-  padding: 8px;
+  padding: 0px;
     border: 1px solid black;
   margin-left: auto;
   margin-right: auto;
@@ -41,33 +41,31 @@ td, th{
 }
 
 .planet-titles{
-  color: navy;
-  font-size: 2em;
+  font-size: 5em;
   font-weight: bold;
 }
 
 .side-titles{
-    color: navy;
-    font-size: 1.2em;
-    font-weight: bold;
+  font-size: 1.2em;
+  font-weight: bold;
 }
 
 .side-titles-column{
-    background-color: cornflowerblue;
-    text-align: left;
+  background-color: cornflowerblue;
+  text-align: left;
 }
 
 .side-titles-first{
-    background-color: black;
+  background-color: black;
 }
 .flowerblue{
-    background-color: cornflowerblue;
+  background-color: cornflowerblue;
 }
 
 .lightblue{
-    background-color: lightskyblue;
+  background-color: lightskyblue;
 }
 
 .imageback{
-    background-color: black;
+  background-color: black;
 }
