@@ -26,6 +26,8 @@ img{
 td, th{
   padding: 8px;
     border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
 }
 
