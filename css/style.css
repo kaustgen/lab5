@@ -51,10 +51,13 @@ td, th{
 }
 
 .side-titles-column{
-    background-color: deepskyblue;
+    background-color: cornflowerblue;
     text-align: left;
 }
 
+.side-titles-first{
+    background-color: black;
+}
 .flowerblue{
     background-color: cornflowerblue;
 }
