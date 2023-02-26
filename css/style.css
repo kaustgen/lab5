@@ -1,7 +1,7 @@
 h1{
   width: 35%;
   padding: 0px;
-  border: 2px dashed (something);
+  border: 2px solid black;
   margin-left: auto;
   margin-right: auto;
   font-size: 3em;
@@ -10,8 +10,8 @@ h1{
 }
 
 img{
-  width: 12em;
-  padding: 0.4em;
+  width: 10em;
+  padding: 0.3em;
   border: 0em;
   margin: 0em;
 }
@@ -24,7 +24,7 @@ img{
 }
 
 td, th{
-  padding: 10px;
+  padding: 8px;
     border: 1px solid black;
   text-align: center;
 }
@@ -40,13 +40,13 @@ td, th{
 
 .planet-titles{
   color: navy;
-  font-size: 3em;
+  font-size: 2em;
   font-weight: bold;
 }
 
 .side-titles{
     color: navy;
-    font-size: 2em;
+    font-size: 1.2em;
     font-weight: bold;
 }
 
@@ -57,6 +57,10 @@ td, th{
 
 .flowerblue{
     background-color: cornflowerblue;
+}
+
+.lightblue{
+    background-color: lightskyblue;
 }
 
 .imageback{
