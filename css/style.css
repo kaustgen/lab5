@@ -92,3 +92,7 @@ a:visited{
 a:active{
     text-decoration: none;
 }
+
+body {
+  background-image: url("sunrise.jpg");
+}
