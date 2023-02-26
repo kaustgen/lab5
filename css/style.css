@@ -1,0 +1,64 @@
+h1{
+  width: 35%;
+  padding: 0px;
+  border: 2px dashed (something);
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 3em;
+  font-weight: bold;
+  text-align: center;
+}
+
+img{
+  width: 12em;
+  padding: 0.4em;
+  border: 0em;
+  margin: 0em;
+}
+
+#planets{
+  border-collapse: collapse;
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td, th{
+  padding: 10px;
+    border: 1px solid black;
+  text-align: center;
+}
+
+#planets th{
+  background-color: grey;
+  border: 0px;
+}
+
+.hover-data:hover td{
+  background-color: deepskyblue;
+}
+
+.planet-titles{
+  color: navy;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.side-titles{
+    color: navy;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.side-titles-column{
+    background-color: deepskyblue;
+    text-align: left;
+}
+
+.flowerblue{
+    background-color: cornflowerblue;
+}
+
+.imageback{
+    background-color: black;
+}
