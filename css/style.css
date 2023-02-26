@@ -6,12 +6,13 @@ h1{
   margin-right: auto;
   font-size: 3em;
   font-weight: bold;
-  color: deepskyblue;
+  color: rgb(rgb(9, 44, 160), green, blue);
   text-align: center;
 }
 
 img{
   width: 10em;
+  height: 10em;
   padding: 0;
   border: 0em;
   margin: 0em;
