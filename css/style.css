@@ -93,6 +93,8 @@ a:active{
     text-decoration: none;
 }
 
-body {
+html {
     background: url(images/sunrise.jpg) center center cover no-repeat fixed;
+    background-size: cover;
+
 }
