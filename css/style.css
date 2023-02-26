@@ -92,7 +92,12 @@ a:visited{
 a:active{
     text-decoration: none;
 }
+body, html {
+    min-height: 100%;
+}
 
 body {
-    background-color: magenta;
+    background-image: url(../images/sunrise.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
