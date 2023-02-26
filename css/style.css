@@ -6,7 +6,7 @@ h1{
   margin-right: auto;
   font-size: 3em;
   font-weight: bold;
-  font: Arial, Serif;
+  font-family: Arial, sans-serif;
   color: #2B65EC;
   text-align: center;
 }
@@ -30,7 +30,7 @@ td, th{
   padding: 8px;
     border: 1px solid black;
   text-align: center;
-  font: Arial, Serif;
+  font-family: Arial, sans-serif;
 }
 
 #planets th{
