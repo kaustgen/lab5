@@ -15,14 +15,12 @@ h1{
   font-weight: bold;
   font-family: Arial, sans-serif;
   text-align: center;
-}
-
-div{
   animation-name: title-animate;
   animation-duration: 4s;
   animation-direction: linear;
   animation-iteration-count: infinite;
 }
+
 
 img{
   width: 10em;
