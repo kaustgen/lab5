@@ -38,11 +38,6 @@ td, th{
   border: 0px;
 }
 
-.hover-data:hover td{
-  background-color: deepskyblue;
-
-}
-
 .planet-titles{
   font-size: 2em;
   font-weight: bold;
@@ -61,7 +56,7 @@ td, th{
 .side-titles-first{
   background-color: black;
 }
-.flowerblue:hover td{
+.flowerblue{
   background-color: cornflowerblue;
   font-size: 1em;
 }
