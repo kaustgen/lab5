@@ -46,9 +46,6 @@ td, th{
 .side-titles{
   font-size: 1.25em;
   font-weight: bold;
-}
-
-.side-titles-column{
   background-color: cornflowerblue;
   text-align: left;
 }
