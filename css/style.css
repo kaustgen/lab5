@@ -43,24 +43,35 @@ td, th{
   font-weight: bold;
 }
 
-.side-titles:hover{
+.flowerblue{
+  background-color: cornflowerblue;
+  font-size: 1em;
+}
+
+.lightblue{
+  background-color: lightskyblue;
+  font-size: 1em;
+}
+
+.side-titles{
   font-size: 1.25em;
   font-weight: bold;
-  background-color: cornflowerblue;
   text-align: left;
 }
 
-.side-titles-first{
-  background-color: black;
-}
 .flowerblue:hover{
-  background-color: cornflowerblue;
-  font-size: 1em;
+  background-color: deepskyblue;
+  font-weight: bold;
 }
 
 .lightblue:hover{
-  background-color: lightskyblue;
-  font-size: 1em;
+  background-color: deepskyblue;
+  font-weight: bold;
+}
+
+.side-titles:hover{
+  background-color: deepskyblue;
+  font-weight: bold;
 }
 
 .imageblack{
