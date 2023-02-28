@@ -1,3 +1,11 @@
+@keyframes title-animate{
+  0% {background-color: black;}
+  23% {background-color: darkblue;}
+  46% {background-color: cornflowerblue;}
+  69% {background-color: deepskyblue;}
+  100% {background-color: lightskyblue;}
+}
+
 h1{
   width: 35%;
   padding: 0px;
@@ -8,6 +16,9 @@ h1{
   font-weight: bold;
   font-family: Arial, sans-serif;
   text-align: center;
+  animation-name: title-animate;
+  animation-duration: 4s;
+  animation-direction: alternate;
 }
 
 img{
@@ -75,36 +86,6 @@ td, th{
 
 .imageblack{
   background-color: black;
-}
-
-.animate-charcter
-{
-   text-transform: uppercase;
-  background-image: linear-gradient(
-    -225deg,
-    #231557 0%,
-    darkblue 23%,
-    cornflowerblue 46%,
-    deepskyblue 69%,
-    lightskyblue 100%
-  );
-  background-size: auto auto;
-  background-clip: border-box;
-  background-size: 200% auto;
-  color: #fff;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: textclip 2s linear infinite;
-  display: inline-block;
-      font-size: 190px;
-}
-
-@keyframes textclip {
-  to {
-    background-position: 200% center;
-  }
 }
 
 a {
