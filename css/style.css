@@ -17,7 +17,7 @@ h1{
   text-align: center;
   animation-name: title-animate;
   animation-duration: 4s;
-  animation-direction: linear;
+  animation-direction: reverse;
   animation-iteration-count: infinite;
 }
 
