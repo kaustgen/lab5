@@ -1,8 +1,8 @@
 @keyframes title-animate{
   0% {background-color: darkblue;}
-  33% {background-color: cornflowerblue;}
-  66% {background-color: deepskyblue;}
-  100% {background-color: lightskyblue;}
+   33% {background-color: cornflowerblue;}
+   66% {background-color: deepskyblue;}
+   100% {background-color: lightskyblue;}
 }
 
 h1{
@@ -15,9 +15,12 @@ h1{
   font-weight: bold;
   font-family: Arial, sans-serif;
   text-align: center;
+}
+
+div{
   animation-name: title-animate;
   animation-duration: 4s;
-  animation-direction: alternate;
+  animation-direction: linear;
   animation-iteration-count: infinite;
 }
 
