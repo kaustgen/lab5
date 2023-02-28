@@ -43,7 +43,7 @@ td, th{
   font-weight: bold;
 }
 
-.side-titles{
+.side-titles:hover{
   font-size: 1.25em;
   font-weight: bold;
   background-color: cornflowerblue;
@@ -53,12 +53,12 @@ td, th{
 .side-titles-first{
   background-color: black;
 }
-.flowerblue{
+.flowerblue:hover{
   background-color: cornflowerblue;
   font-size: 1em;
 }
 
-.lightblue{
+.lightblue:hover{
   background-color: lightskyblue;
   font-size: 1em;
 }
