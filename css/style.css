@@ -40,6 +40,7 @@ td, th{
 
 .hover-data:hover td{
   background-color: deepskyblue;
+
 }
 
 .planet-titles{
@@ -60,7 +61,7 @@ td, th{
 .side-titles-first{
   background-color: black;
 }
-.flowerblue{
+.flowerblue:hover td{
   background-color: cornflowerblue;
   font-size: 1em;
 }
