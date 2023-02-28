@@ -1,8 +1,8 @@
 @keyframes title-animate{
-  0% {background-color: darkblue;}
-   33% {background-color: cornflowerblue;}
-   66% {background-color: deepskyblue;}
-   100% {background-color: lightskyblue;}
+  0% {color: darkblue;}
+   33% {color: cornflowerblue;}
+   66% {color: deepskyblue;}
+   100% {color: lightskyblue;}
 }
 
 h1{
